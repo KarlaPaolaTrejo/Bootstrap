@@ -1,8 +1,5 @@
-# Bootstrap 
-
-Bootstrap es un marco de desarrollo front-end gratuito y de código abierto para la creación de sitios web y aplicaciones web. 
-Diseñado para permitir el desarrollo receptivo de sitios web móviles, 
-Bootstrap proporciona una colección de sintaxis para diseños de plantillas.
+# Bootstrap es un marco de desarrollo front-end gratuito y de código abierto para la creación de sitios web y aplicaciones web. 
+Diseñado para permitir el desarrollo receptivo de sitios web móviles, Bootstrap proporciona una colección de sintaxis para diseños de plantillas.
 
 # Contenido
 
